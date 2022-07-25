@@ -1,6 +1,6 @@
 Este código automatiza el procesamiento de las bases de datos de asegurados que libera el Instituto Mexicano del Seguro Social.  
 
-# **Instructivo**
+# Instructivo
 Con este código es posible procesar múltiples bases de datos tan solo sustituyendo los siguientes valores: 
 
 ###### (*) Número de meses a consultar para cada uno de los años. [Líneas 34-36]
